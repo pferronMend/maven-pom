@@ -1,4 +1,5 @@
 {
-  "settingsInheritedFrom": "pferronMend/whitesource-config@main"
+  "settingsInheritedFrom": "pferronMend/whitesource-config@main",
+  "configMode": "LOCAL"
 }
 
