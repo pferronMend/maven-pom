@@ -1,5 +1,4 @@
 {
-  "settingsInheritedFrom": "pferronMend/whitesource-config@main",
-  "checkPolicies": true
+  "settingsInheritedFrom": "pferronMend/whitesource-config@main"
 }
 
