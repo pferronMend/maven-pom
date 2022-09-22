@@ -1,5 +1,7 @@
 {
   "settingsInheritedFrom": "pferronMend/whitesource-config@main",
-  "configMode": "LOCAL"
+  "scanSettings": {
+    "configMode": "LOCAL"
+  }
 }
 
