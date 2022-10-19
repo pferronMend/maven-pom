@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "pferronMend/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
-  }
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
