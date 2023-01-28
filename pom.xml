@@ -38,7 +38,7 @@
 	<dependency>
     <groupId>aws.smithy.kotlin</groupId>
     <artifactId>io-jvm</artifactId>
-    <version>0.12.6</version>
+    <version>0.15.0</version>
     <scope>runtime</scope>
 	</dependency>
 </dependencies>
