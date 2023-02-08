@@ -1,7 +1,9 @@
 {
   "settingsInheritedFrom": "pferronMend/whitesource-config@main",
   "scanSettings": {
-    "configMode": "LOCAL"
+    "configMode": "LOCAL",
+    "cvssDisplayMode": "2.0"
+}
   },
   "remediateSettings": {
     "workflowRules": {
