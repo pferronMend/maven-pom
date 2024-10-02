@@ -18,7 +18,7 @@
     },
     "hostRules": [
         {
-          "matchHost": "https://pkgs.dev.azure.com/opendealerexchange/LEN/_packaging/DE_Feed/maven/v1",
+          "matchHost": "https://pkgs.dev.azure.com/pferronMend/LEN/_packaging/DE_Feed/maven/v1",
           "hostType": "maven",
           "userName": "opendealerexchange",
           "encrypted": {
