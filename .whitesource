@@ -16,16 +16,6 @@
           "dependencyDashboardApproval": true
       }
     },
-    "hostRules": [
-        {
-          "matchHost": "https://pkgs.dev.azure.com/pferronMend/LEN/_packaging/DE_Feed/maven/v1",
-          "hostType": "maven",
-          "userName": "opendealerexchange",
-          "encrypted": {
-            "token": "wcBMA8xOaBJvzJNbAQf/cEhqM4HjefblvDJwkyNYVINvuBNcGfl/ezR4xAYkgMiCPDhDmXrPJPgrkqwxA4GnDfsW0NeXkInFvvqP0mjh1KHBY0zSC+8ZbnyQr2myMSCXg0b0xKPsLxwMiEzjFycvKahkZY3m3IB7B7K11s1roIYmBAP/PvAFBjKc5JhM6fe4jA/CjIvaW+QwnP/usoP5E4e7FMYR71D5sljl5VOIwwM+UpwfZovPkPRh+JmVPPPEAlM8XqVgNU5YnrE5EtUo19XfgCqMaFz3vaiOOk9ab/+V75Fo9UjjzUeFyuxj36Qtul6EVgSW9dz/51oryn+9bH91aBl6cZXRyXDzveZxdNKNAbFARKFixqGKVQ+FnYLPbqS5LSaq2OgSAvvX6mk+E4mz/tumux4M2w+fRXO3H6cppEduNf7jUq11hMD2qiJXWh7djBLeMGuJaV4A/6j9/xEOItPlLLwF7WHBxPgKT4uGtrviHnhlWa+tDY0NcYOSBJLN6XgSp6EyGLDLMNybDdrXMmEJsgqGPpa4iwuh"
-          }
-        }
-      ]
 }
 
 
